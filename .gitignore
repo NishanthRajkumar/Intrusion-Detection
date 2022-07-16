@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore Keras CallBack checkpoint folder
+Callback_Check_Point/
